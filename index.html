@@ -15,11 +15,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '帅帅的小江湖',
+      name: '前端小江湖',
       repo: 'https://github.com/wenwenwangshuai',
       loadSidebar: true,
       subMaxLevel: 2,
-      search: 'auto'
+      search: 'auto',
+      // 支持 Vue
+      vueGlobalOptions: {
+        data() {
+          return {
+            test: 0
+          };
+        }
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -31,8 +39,8 @@
   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
   <script>
     const gitalk = new Gitalk({
-      clientID: 'a4476273807a327ae6da',
-      clientSecret: '71e5d10002597f1e2651b56bc8b31a558ba95985 ',
+      clientID: '06123c1406b6d0805afb',
+      clientSecret: 'ffcd4f4df1de1eb45a01a40e08f9a56c52c0bab2',
       repo: 'blog', // 填写你要保存评论的仓库名字
       owner: 'wenwenwangshuai', // 就是你的 Github 名字
       admin: ['wenwenwangshuai'], // 就是你的 Github 名字
