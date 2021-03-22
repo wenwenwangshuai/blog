@@ -1,6 +1,6 @@
 - JavaScript
-  - [闭包](closure.md)
-  - [原型](prototype.md)
+  - [闭包](docs/closure.md)
+  - [原型](docs/prototype.md)
 
 - CSS
-  - [布局](layout.md)
+  - [flex布局](docs/css/flex.md)
