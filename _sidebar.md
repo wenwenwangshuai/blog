@@ -1,6 +1,4 @@
 - JavaScript
-  - [闭包](docs/closure.md)
-  - [原型](docs/prototype.md)
-
+  - [数组函数](docs/js/array.md)
 - CSS
   - [flex布局](docs/css/flex.md)
