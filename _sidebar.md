@@ -1,4 +1,0 @@
-- JavaScript
-  - [数组函数](docs/js/array.md)
-- CSS
-  - [flex布局](docs/css/flex.md)
