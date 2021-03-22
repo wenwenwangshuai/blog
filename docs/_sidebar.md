@@ -1,4 +1,5 @@
 - JavaScript
   - [数组函数](js/array.md)
 - CSS
-  - [flex布局](css/flex.md)
+  - [Flex布局：语法篇](css/flex-grammar.md)
+  - [Flex布局：实例篇](css/flex-instance.md)
