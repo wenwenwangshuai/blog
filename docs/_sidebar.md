@@ -1,4 +1,5 @@
 - JavaScript
+  - [JS简写骚操作](js/sugar.md)
   - [数组的常用方法](js/array.md)
 - CSS
   - [Flex布局：语法篇](css/flex-grammar.md)
