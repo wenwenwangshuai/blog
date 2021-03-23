@@ -1,5 +1,7 @@
 # Flex 布局教程：实例篇
 
+------------
+
 作者： [阮一峰](http://www.ruanyifeng.com/home.html)
 
 [上一篇文章](/css/flex-grammar)介绍了Flex布局的语法，今天介绍常见布局的Flex写法。

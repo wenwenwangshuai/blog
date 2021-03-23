@@ -1,5 +1,7 @@
 # Flex 布局教程：语法篇
 
+------------
+
 作者： [阮一峰](http://www.ruanyifeng.com/home.html)
 
 网页布局（layout）是 CSS 的一个重点应用。
