@@ -38,7 +38,7 @@
 
 ---
 
-![vue-next-template-explorer.netlify.app](https://vue-next-template-explorer.netlify.app/)
+[vue-next-template-explorer.netlify.app](https://vue-next-template-explorer.netlify.app/)
 
 ![img](../img/vue/vue3_introduction/3.png)
 
