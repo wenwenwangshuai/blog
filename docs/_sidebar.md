@@ -1,6 +1,7 @@
 - JavaScript
   - [JS简写骚操作](js/sugar.md)
   - [数组的常用方法](js/array.md)
+  - [常见算法题及完美题解](js/algorithm.md)
 - CSS
   - [Flex布局：语法篇](css/flex-grammar.md)
   - [Flex布局：实例篇](css/flex-instance.md)
