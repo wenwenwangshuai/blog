@@ -37,7 +37,7 @@ str.charCodeAt(3)   =>  '111'
 > 将字符串字号变大，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.big()
 ```
 
@@ -46,7 +46,7 @@ txt.big()
 > 将字符串字号变小，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.small()
 ```
 
@@ -55,7 +55,7 @@ txt.small()
 > 将字符串字体加粗，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.bold()
 ```
 
@@ -64,7 +64,7 @@ txt.bold()
 > 将字符串设为斜体，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.italics()
 ```
 
@@ -73,7 +73,7 @@ txt.italics()
 > 将字符串设为闪动，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.blink()
 ```
 
@@ -82,7 +82,7 @@ txt.blink()
 > 将字符串以打印机文本显示，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.fixed()
 ```
 
@@ -91,7 +91,7 @@ txt.fixed()
 > 将字符串加上删除线，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.strike()
 ```
 
@@ -100,7 +100,7 @@ txt.strike()
 > 设置字符串指定颜色，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.fontcolor('Blue')
 ```
 
@@ -109,7 +109,7 @@ txt.fontcolor('Blue')
 > 设置字符串指定字号，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.fontsize(22)
 ```
 
@@ -118,7 +118,7 @@ txt.fontsize(22)
 > 将字符串转化为小写，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.toLowerCase()
 ```
 
@@ -127,7 +127,7 @@ txt.toLowerCase()
 > 将字符串转化为大写，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.toUpperCase()
 ```
 
@@ -136,7 +136,7 @@ txt.toUpperCase()
 > 将字符串显示为下标，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.sub()
 ```
 
@@ -145,7 +145,7 @@ txt.sub()
 > 将字符串显示为上标，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.sup()
 ```
 
@@ -154,7 +154,7 @@ txt.sup()
 > 将字符串显示为链接，并返回新的字符串。
 
 ```js
-let txt = 公众号：执行上下文
+let txt = "公众号：经典优美句子"
 txt.link()
 ```
 
@@ -355,9 +355,9 @@ zhuan = str.replace(/\b\w+\b/g, function(c){
 
 ```js
 var str = 'ccadjlkj3kajgl2lkjalg'
-str.replace(/d/, '公众号：执行上下文')
+str.replace(/d/, '"公众号：经典优美句子"')
 
 // 结果
 
-"cca公众号：执行上下文jlkj3kajgl2lkjalg"
+"cca"公众号：经典优美句子"jlkj3kajgl2lkjalg"
 ```
