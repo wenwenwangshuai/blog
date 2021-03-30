@@ -3,6 +3,7 @@
   - [数组的常用方法](js/array.md)
   - [常用的string函数方法](js/string.md)
   - [Math及其常用的方法](js/math.md)
+  - [Promise的基本使用](js/promise.md)
   - [常见算法题及完美题解](js/algorithm.md)
 - CSS
   - [Flex布局：语法篇](css/flex-grammar.md)
