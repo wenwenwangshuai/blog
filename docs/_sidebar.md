@@ -5,6 +5,8 @@
   - [Math及其常用的方法](js/math.md)
   - [Promise的基本使用](js/promise.md)
   - [常见算法题及完美题解](js/algorithm.md)
+- TypeScript
+  - [TS总结](ts/introduction.md)
 - CSS
   - [Flex布局：语法篇](css/flex-grammar.md)
   - [Flex布局：实例篇](css/flex-instance.md)
