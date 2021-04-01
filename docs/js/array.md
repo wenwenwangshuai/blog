@@ -61,7 +61,7 @@ colors[colors.length] = 'brown';//位置4添加一种颜色
 
 ## 三、数组检测
 
-1. 对于一个网页或一个全局全局作用域而言，使用`instanceof`就能搞定。
+1. 对于一个网页或一个全局作用域而言，使用`instanceof`就能搞定。
 
 ```JS
 value instanceof Array

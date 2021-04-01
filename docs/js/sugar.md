@@ -396,6 +396,13 @@ const num1 = +"100"; // converts to int data type
 const num2 =  +"100.01"; // converts to float data type
 ```
 
+## Object 深拷贝
+
+```js
+const obj = {a: 1,b: 2}
+const obj2 = JSON.parse(JSON.stringify({ a:1 }));
+```
+
 ## Object.entries()
 
 这是一个 `es8` 中出现的特性，允许你把一个对象转换成具有键值对的数组。

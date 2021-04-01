@@ -118,7 +118,7 @@ txt.fontsize(22)
 > 将字符串转化为小写，并返回新的字符串。
 
 ```js
-let txt = "公众号：经典优美句子"
+let txt = "JINGDIANYOUMEIJUZU"
 txt.toLowerCase()
 ```
 
@@ -127,7 +127,7 @@ txt.toLowerCase()
 > 将字符串转化为大写，并返回新的字符串。
 
 ```js
-let txt = "公众号：经典优美句子"
+let txt = "jingdianyoumeijuzu"
 txt.toUpperCase()
 ```
 
