@@ -4,6 +4,7 @@
   - [常用的string函数方法](js/string.md)
   - [Math及其常用的方法](js/math.md)
   - [Promise的基本使用](js/promise.md)
+  - [事件机制 Event Loop](js/eventLoop.md)
   - [常见算法题及完美题解](js/algorithm.md)
 - TypeScript
   - [TS总结](ts/introduction.md)
