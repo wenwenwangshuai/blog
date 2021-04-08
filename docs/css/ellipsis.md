@@ -20,4 +20,4 @@ text-overflow: ellipsis; // 超出的部分省略
 display: -webkit-box; // 设置为是一个盒子
 -webkit-line-clamp: 2; // 超出几行后会开始隐藏
 -webkit-box-orient: vertical; // 子元素的排列顺序
-```css
+```
