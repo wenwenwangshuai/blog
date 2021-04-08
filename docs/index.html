@@ -19,7 +19,12 @@
       repo: 'https://github.com/wenwenwangshuai',
       loadSidebar: true,
       subMaxLevel: 2,
-      search: 'auto',
+      search: {
+        paths: 'auto',
+        placeholder: '请输入要搜索的关键字',
+        noData: '没有结果',
+        depth: 6,
+      },
       // 支持 Vue
       vueGlobalOptions: {
         data() {
@@ -37,6 +42,8 @@
   <!-- 支持评论 -->
   <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <!-- 支持复制代码 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: '06123c1406b6d0805afb',

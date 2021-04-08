@@ -8,6 +8,7 @@
   - [请求跨域的那点事](js/cross_domain.md)
   - [redux和vuex](js/redux_vuex.md)
   - [webpack入门](js/webpack.md)
+  - [事件机制 Event Loop](js/eventLoop.md)
   - [常见算法题及完美题解](js/algorithm.md)
 - TypeScript
   - [TS总结](ts/introduction.md)
@@ -22,3 +23,5 @@
   - [3.0新特性](vue/vue3_characteristic.md)
 - React
   - [Hooks 详解](react/hooks.md)
+- 其他
+  - [前端性能优化](other/performance.md)
