@@ -4,6 +4,10 @@
   - [常用的string函数方法](js/string.md)
   - [Math及其常用的方法](js/math.md)
   - [Promise的基本使用](js/promise.md)
+  - [AJAX、Axios和Fetch](js/ajax_axios_fetch.md)
+  - [请求跨域的那点事](js/cross_domain.md)
+  - [redux和vuex](js/redux_vuex.md)
+  - [webpack入门](js/webpack.md)
   - [常见算法题及完美题解](js/algorithm.md)
 - TypeScript
   - [TS总结](ts/introduction.md)
@@ -11,6 +15,7 @@
   - [Flex布局：语法篇](css/flex-grammar.md)
   - [Flex布局：实例篇](css/flex-instance.md)
   - [HTML/CSS基础](css/basis.md)
+  - [单、多行省略号](css/ellipsis.md)
 - Vue
   - [生命周期](vue/cycle.md)
   - [3.0变动简介](vue/vue3_introduction.md)
