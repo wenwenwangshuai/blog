@@ -7,6 +7,7 @@
   - [AJAX、Axios和Fetch](js/ajax_axios_fetch.md)
   - [请求跨域的那点事](js/cross_domain.md)
   - [redux和vuex](js/redux_vuex.md)
+  - [Async+Await](js/async_await.md)
   - [webpack入门](js/webpack.md)
   - [事件机制 Event Loop](js/eventLoop.md)
   - [常见算法题及完美题解](js/algorithm.md)
