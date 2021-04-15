@@ -348,7 +348,7 @@ const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 2. 若提供依赖项数组，当某个依赖项改变时才会重新计算`memoized`值
 3. 不要在该“创建”函数内部执行与渲染无关的操作【如副操作等适合使用在其它`hook`中的逻辑】
 
-七、useRef
+## 七、useRef
 
 ```js
 const refContainer = useRef(initialValue);
