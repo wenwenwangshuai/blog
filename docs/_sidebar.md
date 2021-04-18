@@ -29,3 +29,4 @@
 - 其他
   - [前端性能优化](other/performance.md)
   - [前端工程化的理解](other/engineering.md)
+  - [HTTP 缓存机制](other/httpCache.md)
