@@ -7,7 +7,7 @@
 ```js
 var str = "我的名字是{name}";
 var obj = { name: 'peter' };
-var newStr = str.replace(eval(`/{(${Object.keys(obj).join('|')})+}/g`),(result,key) => {
+var newStr = str.replace(new RegExp(`{(${Object.keys(obj).join('|')})+}`,'g'),(result,key) => {
   return obj[key]
 })
 ```
