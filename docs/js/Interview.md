@@ -2,6 +2,16 @@
 
 -----
 
+## 问："我的名字是{name}" 占位符匹配
+
+```js
+var str = "我的名字是{name}";
+var obj = { name: 'peter' };
+var newStr = str.replace(eval(`/{(${Object.keys(obj).join('|')})+}/g`),(result,key) => {
+  return obj[key]
+})
+```
+
 ## 问：0.1 + 0.2 === 0.3 嘛？为什么？
 
 JavaScirpt 使用 Number 类型来表示数字（整数或浮点数），遵循 IEEE 754 标准，通过 64 位来表示一个数字（1 + 11 + 52）
