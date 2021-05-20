@@ -26,6 +26,9 @@
   - [3.0新特性](vue/vue3_characteristic.md)
 - React
   - [Hooks 详解](react/hooks.md)
+- 技术规范
+  - [版本号规范](standard/semanticVersion.md)
+  - [git提交规范](standard/gitCommit.md)
 - 其他
   - [前端性能优化](other/performance.md)
   - [前端工程化的理解](other/engineering.md)
