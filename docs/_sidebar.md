@@ -10,7 +10,8 @@
   - [Async+Await](js/async_await.md)
   - [webpack入门](js/webpack.md)
   - [事件机制 Event Loop](js/eventLoop.md)
-  - [前端面试题：JavaScript 基础](js/Interview.md)
+  - [面试题：JavaScript 基础](js/Interview.md)
+  - [面试题：23个XX和XX的区别](js/difference.md)
   - [从URL输入到页面展现到底发生什么](js/process.md)
   - [常见算法题及完美题解](js/algorithm.md)
 - TypeScript
