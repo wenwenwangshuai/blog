@@ -14,6 +14,7 @@
   - [面试题：23个XX和XX的区别](js/difference.md)
   - [从URL输入到页面展现到底发生什么](js/process.md)
   - [常见算法题及完美题解](js/algorithm.md)
+  - [易错知识点](js/fallibility.md)
 - TypeScript
   - [TS总结](ts/introduction.md)
 - CSS
